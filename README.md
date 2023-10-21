@@ -1,5 +1,5 @@
 # SOC-Design-Lab3
-Simulation log檔案是用Xim的方式模擬出來的
+Simulation log檔案是用Xim的方式模擬出來的\n
 Waveform裡共有4個圖檔，分別是
   coeffic_input.png ： 標示h[i]資料(tap parameter)從AXI-write protocol進入fir design同時顯示tap Bram將此資料存進Bram的data flow
   coeffic_output.png ：標示h[i]資料(tap parameter)從AXI-read protocol讀回fir testbench同時顯示tap Bram將此資料讀出Bram的data flow
